@@ -1,3 +1,1 @@
-something is wrong here...
-
-Avatar: [@TreasureBooru](https://twitter.com/treasurebooru)
+![Futaba Sakura](./.github/futaba.gif)
